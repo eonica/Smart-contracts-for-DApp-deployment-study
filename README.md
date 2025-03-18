@@ -4,7 +4,7 @@ This repository includes the smart contracts code for the two use cases in the D
 These are as follows:
 
 - the e-voting DApp use case: \
-  Vote.sol (lightweight contract for hashed vote information commitment to the ledger, complementary to external storage of extended vote data)
+  [Vote.sol](Vote.sol) (lightweight contract for hashed vote information commitment to the ledger, complementary to external storage of extended vote data)
 
 - the supply-chain DApp use case: \
   [SupplyChain.sol](SupplyChain.sol) (main contract including lightweight functions for commitment of operational flow tracking information to the ledger) \

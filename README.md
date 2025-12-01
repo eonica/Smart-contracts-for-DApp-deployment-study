@@ -1,4 +1,4 @@
-# Smart-contracts-for-DApp-deployment-study
+# Smart contracts for DApp deployment study
 
 This repository includes the smart contracts code for the two use cases in the DApp deployment study submitted to the 5th International Workshop on Distributed Infrastructure for Common Good - DICG 2025.
 These are as follows:

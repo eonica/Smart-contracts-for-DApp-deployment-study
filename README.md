@@ -9,3 +9,6 @@ These are as follows:
 - the supply-chain DApp use case: \
   [SupplyChain.sol](SupplyChain.sol) (main contract including lightweight functions for commitment of operational flow tracking information to the ledger) \
   [Utils.sol](Utils.sol) (contract module including definitions of roles, status of batches, storage structures, modifiers for role checks and other common data used in the main contract)
+
+### Acknowledgement
+This work was supported by a grant from the Romanian Ministry of Research, Innovation and Digitization, CNCS/CCCDI - UEFISCDI, project number 86/2025 ERANET-CHISTERA-IV-SCEAL, within PNCDI IV.
